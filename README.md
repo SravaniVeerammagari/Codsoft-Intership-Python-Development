@@ -1,4 +1,4 @@
-# Codsoft Intership Python Development
+# Python simple projects
 Welcome to the repository showcasing the projects I completed during my Python development internship at CodSoft. Over the course of this internship, I honed my skills in Python and its built-in libraries by working on various practical tasks. Each project reflects my growth and understanding of python development fundamentals, as well as my commitment to producing clean, efficient code.
 # Projects Includes :
 # 1. To-Do List
